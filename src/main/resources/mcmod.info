@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "phouwubos",
+    "name": "Phouwubos",
+    "description": "sex",
+    "version": "1.6.9",
+    "mcversion": "1.12.2",
+    "logoFile": "phobos.png",
+    "url": "https://discord.gg/2JUjwGAPt8",
+    "updateUrl": "",
+    "authorList": [
+      "Perry",
+      "gqrl",
+      "alfie",
+      "Irrelevant to the cause",
+      "MHF_NaN"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
