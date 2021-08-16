@@ -1,4 +1,4 @@
-# sorry for nuking the first repo - PeterDev
+# its not an official phobos version, its just a skid made by somesadkid
 
 leaked again this time no nuke :maed:
 
